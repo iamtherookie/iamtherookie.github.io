@@ -3,12 +3,45 @@ html {
 }
 
 body {
-  background-color: cadetblue;
+  background-color: rgb(93, 109, 126);
 }
 
-h1 {
-  font-size: 14rem;
+h2 {
+  font-size: 3em;
   font-family: Helvetica;
   color: white;
   opacity: .5;
+  background-color: black;
+  padding: 3%;
+  text-align: center;
+
+}
+
+P {
+  font-size: 1em;
+  font-family: Helvetica;
+  color: black;
+  opacity: .5;
+  text-align: center;
+}
+
+p a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+h3 {
+  font-size: 5em;
+  font-family: Helvetica;
+  color: white;
+  opacity: .5;
+  margin-top: 5%;
+  text-align: center;
+}
+
+h3 a:link, a:visited {
+  font-family: Helvetica;
+  color: white;
+  opacity: .5;
+  text-decoration: none;
 }
