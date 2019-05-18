@@ -14,22 +14,14 @@ h2 {
 
 }
 
-P {
-  font-size: 1em;
-  font-family: Helvetica;
-  color: black;
-  opacity: .5;
-  text-align: center;
-  background: white;
-}
 
-p a:link, a:visited {
+h2 a:link, a:visited {
   text-decoration: none;
-  color: black;
+  color: red;
 }
 
 h3 {
-  width: 95%;
+  width: 96%;
   font-size: 4.5em;
   font-family: Helvetica;
   color: white;
