@@ -30,7 +30,8 @@ p a:link, a:visited {
 }
 
 h3 {
-  font-size: 6.5em;
+  width: 95%;
+  font-size: 4.5em;
   font-family: Helvetica;
   color: white;
   opacity: .5;
