@@ -1,9 +1,9 @@
-html {
+html, body {
   font-size: 16px;
   background-color: black;
+  max-width: 100%;
+  overflow-x: hidden;
 }
-
-body {
 }
 
 h2 {
