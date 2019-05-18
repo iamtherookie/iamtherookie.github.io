@@ -1,28 +1,27 @@
 html {
   font-size: 16px;
+  background-color: black;
 }
 
 body {
-  background-color: rgb(93, 109, 126);
 }
 
 h2 {
   font-size: 3em;
   font-family: Helvetica;
   color: white;
-  opacity: .5;
-  background-color: black;
   padding: 3%;
   text-align: center;
 
 }
 
 P {
-  font-size: 1.5em;
+  font-size: 1em;
   font-family: Helvetica;
   color: black;
   opacity: .5;
   text-align: center;
+  background: white;
 }
 
 p a:link, a:visited {
